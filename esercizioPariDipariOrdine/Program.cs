@@ -18,7 +18,7 @@ namespace esercizioPariDipariOrdine
             operazioni.BubbleSort1(array);
             Console.Write($"l'array ordinato è: ");
             operazioni.Stampa(array);
-            
+
 
         }
     }

@@ -36,7 +36,7 @@ namespace Gestione
                 {
                     dispari[d] = array[i];
                     d++;
-                }    
+                }
             }
             Console.WriteLine("l'array pari è:");
             Stampa(pari);
